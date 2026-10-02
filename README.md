@@ -19,7 +19,7 @@ An interactive Power BI dashboard designed to explore the data job market, analy
 - 🎛️ Interactive filtering
 - 🔎 Job title drill-through analysis
 
-📁 [Explore Project 1](https://github.com/Akhil-Shaji-bOt/PowerBi-Dashboard/tree/main/Data_Jobs_v1)
+📁 [**View Full Project 1 Details (README)**](/Data_jObs_v1/README.md)
 
 ![Project 1 Dashboard](./Images/Project1_image1.png)
 
@@ -37,7 +37,7 @@ A single-page Power BI dashboard focused on analyzing key job market metrics, in
 - 🧮 DAX measures
 - ⭐ Star schema data modeling
 
-📁 [Explore Project 2](https://github.com/Akhil-Shaji-bOt/PowerBi-Dashboard/tree/main/Data_Jobs_v2)
+📁 [**View Full Project 2 Details (README)**](/Data_jObs_v2/README.md)
 
 ![Project 2 Dashboard](./Images/Project2_image2.png)
 
